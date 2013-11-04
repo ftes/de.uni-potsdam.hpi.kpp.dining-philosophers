@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# compiled executable
+dinner
+dinner.tar
+
+# output file
+output.txt
+
