@@ -3,7 +3,7 @@ CFLAGS=-c -Wall -std=c++11 -pthread
 LDFLAGS=-pthread
 SOURCES=main.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
-EXECUTABLE=parsum
+EXECUTABLE=dinner
 
 all: $(SOURCES) $(EXECUTABLE)
 	
